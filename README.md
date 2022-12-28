@@ -11,7 +11,7 @@ It is divided in the following sections:
 - C. Model selection
 - D. Model predictions & interpretation
 
-<img src="images/model_comparison.png" width="500" height="375">
+<img src="/images/model_comparison.png" width="500" height="375">
 
 
 
@@ -29,14 +29,14 @@ It is divided in the following sections:
 - B. Text preprocessing
 - C. Sentiment analysis
 
-<img src="images/sentiment3.JPG" width="475" height="350">
+<img src="/images/sentiment3.JPG" width="475" height="350">
 
 
 
 # [Project 3: Time-Series Forecast (R)](https://github.com/THouwe/timeSeriesForecasting_waterInflow_R)
 This [R Markdown](https://github.com/THouwe/timeSeriesForecasting_waterInflow_R/blob/main/WaterFlow_Sector229.Rmd) shows how to pre-process and analyze time-series (TS) data. The file shows how to explore seasonalities (e.g., autocorrelation) and trends (e.g., moving averages), and how to perform automated model selection using the [Fable library](https://fable.tidyverts.org/). A description in Italian is provided in [this html file](https://github.com/THouwe/timeSeriesForecasting_waterInflow_R/blob/main/WaterFlow_Sector229.html).
 
-<img src="images/sector255_predictions.JPG" width="500" height="400">
+<img src="/images/sector255_predictions.JPG" width="500" height="400">
 
 
 

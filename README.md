@@ -1,5 +1,3 @@
-# THouwe_portfolio
-
 # [Project 1: Decision Tree Binary Classification (Python)](https://github.com/THouwe/classification_decisionTrees_shippingData_Python)
 
 This [Jupyter Notebook](https://github.com/THouwe/classification_decisionTrees_shippingData_Python/blob/main/shippingData_decisionTree.ipynb) shows how to perform model selection for decision trees in binary classification problems. Specifically, it focuses on deciding on whether to (i) over-/under-sample the data in case of imbalanced datasets, (ii) use gini or entropy as information gain criterion, and (iii) limiting tree depth. It uses this [dataset](https://www.kaggle.com/datasets/prachi13/customer-analytics).
